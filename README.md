@@ -1,6 +1,6 @@
 # Texit
 
-TODO: Write a gem description
+Easily typeset and graph math anywhere.
 
 ## Installation
 
@@ -15,10 +15,6 @@ And then execute:
 Or install it yourself as:
 
     $ gem install texit
-
-## Usage
-
-TODO: Write usage instructions here
 
 ## Contributing
 
