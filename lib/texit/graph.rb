@@ -1,5 +1,5 @@
 module Texit
-  class Grash
+  class Graph
 
     self.make_url(tex_equation) do
       DOMAIN_WITH_PROTOCOL + "$#{ tex_equation }$.png"
